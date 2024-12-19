@@ -1,0 +1,24 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "example to generate jwt using nodejs",
+  "type": "module",
+  "main": "jwttoken.js",
+  "author": "Tableau",
+  "license": "ISC",
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {
+    "@tableau/embedding-api": "^3.8.0",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "javascript": "file:",
+    "jsonwebtoken": "^9.0.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.2"
+  },
+  "keywords": []
+}
