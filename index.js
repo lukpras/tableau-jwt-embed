@@ -3,11 +3,11 @@
 
 // // Generate or fetch token options
 // const options = {
-//   secret: "AItFep52xj45V733MOLuJBiyLLD0T1LW1CAG0GlbyXI=",
-//   secretId: "7a1a1a80-5b8d-4f5d-a8af-4c61421beaaf",
-//   clientId: "294bdfe2-1ad4-4f8c-a5e8-e84e97382f11",
+//   secret: "",
+//   secretId: "",
+//   clientId: "",
 //   scopes: ["tableau:views:embed", "tableau:views:embed_authoring"],
-//   userId: "luki@inixindobdg.co.id",
+//   userId: "",
 //   tokenExpiryInMinutes: 1, // Max of 10 minutes
 //   userAttributes: {},
 // };
